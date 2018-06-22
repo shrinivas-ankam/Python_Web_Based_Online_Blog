@@ -1,0 +1,1 @@
+Alias npp='notpad++.exe --multiInst --nosession'
